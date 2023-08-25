@@ -1,0 +1,11 @@
+status
+push %rax
+push %rbx
+push %rcx
+push %rdx
+status
+pop %rax
+pop %rbx
+pop %rcx
+pop %rdx
+status

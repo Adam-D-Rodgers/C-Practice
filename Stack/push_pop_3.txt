@@ -1,0 +1,9 @@
+status
+push $16
+push $32
+push $64
+push $128
+pop %rax
+pop %rbx
+pop %rcx
+status
